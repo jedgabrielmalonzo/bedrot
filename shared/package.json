@@ -1,0 +1,13 @@
+{
+  "name": "@deskremote/shared",
+  "version": "1.0.0",
+  "description": "Shared protocol types for DeskRemote",
+  "main": "protocol/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0"
+  }
+}
